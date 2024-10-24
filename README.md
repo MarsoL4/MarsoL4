@@ -13,7 +13,7 @@
 <!-- About Me -->
 <p align="center">
   <b>🌟 Desenvolvedor Java/Python | Estudante de Análise e Desenvolvimento de Sistemas na FIAP 🌟</b><br>
-  <b>💻 Linguagens e Tecnologias: Java, Python, SQL, Node.js, React.js💻</b><br>
+  <b>💻 Linguagens e Tecnologias: Java, Python, SQL, Node.js, React.js 💻</b><br>
   <b>🔧 Finalista do programa FIAP Next com o projeto CarCheck em parceria com a Porto Seguro 🔧</b><br>
   <b>🚀 Apaixonado por resolver desafios tecnológicos e aprender continuamente 🚀</b><br>
 </p>
