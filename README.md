@@ -45,9 +45,8 @@
   <a href="https://www.linkedin.com/in/enzomarsola/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23007BFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-<!-- Snake Game -->
 <p align="center">
-  <img alt="GitHub Activity Graph" src="https://raw.githubusercontent.com/MarsoL4/MarsoL4/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Activity Graph" src="https://raw.githubusercontent.com/ryanbritodev/ryanbritodev/output/github-contribution-grid-snake.svg">
 </p>
 
 <!-- Footer Wave -->
