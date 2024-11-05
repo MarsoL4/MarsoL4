@@ -47,7 +47,7 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub Activity Graph" src="https://raw.githubusercontent.com/marsol4/marsol4/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Activity Graph" src="https://raw.githubusercontent.com/ryanbritodev/ryanbritodev/output/github-contribution-grid-snake.svg">
 </p>
 
 <!-- Footer Wave -->
