@@ -35,7 +35,9 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarsoL4&layout=compact&theme=dracula" width="45%" alt="Most Used Languages">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MarsoL4&show_icons=true&theme=dracula" width="50%" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarsoL4&layout=compact&theme=dracula" width="45%" alt="Most Used Languages">
 </p>
 
 <!-- Social Links -->
