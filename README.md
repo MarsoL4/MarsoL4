@@ -30,7 +30,7 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarsoL4&layout=compact&theme=github_dark_dimmed&hide=jupyternotebook" width="45%" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarsoL4&layout=compact&theme=github_dark_dimmed&hide=jupyter" width="45%" alt="Most Used Languages">
 </p>
 
 <!-- Social Links -->
