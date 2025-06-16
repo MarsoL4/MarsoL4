@@ -3,6 +3,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=007BFF&section=header&reversal=true"/>
 </p>
 
+
 <!-- Typing SVG and Introduction -->
 <p align="center">
   <a href="https://git.io/typing-svg">
