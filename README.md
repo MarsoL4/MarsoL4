@@ -63,13 +63,6 @@ Focado em desenvolvimento **backend** e **full stack**, APIs, bancos de dados e 
 </details>
 
 <details>
-  <summary><u>Ferramentas de Build</u></summary>
-  <ul>
-    <li>Maven</li>
-  </ul>
-</details>
-
-<details>
   <summary><u>Análise de Dados</u></summary>
   <ul>
     <li>Jupyter Notebook</li>
