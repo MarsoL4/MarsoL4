@@ -93,7 +93,7 @@ Focado em desenvolvimento **backend** e **full stack**, APIs, bancos de dados e 
 </details>
 
 <details>
-  <summary><u>Tools</u></summary>
+  <summary><u>Ferramentas</u></summary>
   <ul>
     <li>IntelliJ IDEA</li>
     <li>VS Code</li>
