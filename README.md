@@ -16,7 +16,7 @@ Focado em desenvolvimento **backend** e **full stack**, APIs, bancos de dados e 
 ## Tech Stack
 
 <details>
-  <summary><u>Backend</u></summary>
+  <summary><u>Back-End</u></summary>
   <ul>
     <li>Java 8+</li>
     <li>Spring Framework</li>
@@ -24,6 +24,22 @@ Focado em desenvolvimento **backend** e **full stack**, APIs, bancos de dados e 
     <li>RESTful Services</li>
     <li>C#</li>
     <li>.NET</li>
+    <li>Python</li>
+  </ul>
+</details>
+
+<details>
+  <summary><u>Front-End</u></summary>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>TypeScript</li>
+    <li>React</li>
+    <li>React Native</li>
+    <li>Node.js</li>
+    <li>Next.js</li>
+    <li>Tailwind</li>
   </ul>
 </details>
 
@@ -38,9 +54,27 @@ Focado em desenvolvimento **backend** e **full stack**, APIs, bancos de dados e 
 </details>
 
 <details>
+  <summary><u>Cloud e DevOps</u></summary>
+  <ul>
+    <li>Azure</li>
+    <li>Azure DevOps</li>
+    <li>Administração de infraestruturas virtuais (VMs e VNETs)</li>
+  </ul>
+</details>
+
+<details>
   <summary><u>Ferramentas de Build</u></summary>
   <ul>
     <li>Maven</li>
+  </ul>
+</details>
+
+<details>
+  <summary><u>Análise de Dados</u></summary>
+  <ul>
+    <li>Jupyter Notebook</li>
+    <li>Pandas</li>
+    <li>Matplotlib</li>
   </ul>
 </details>
 
@@ -52,15 +86,6 @@ Focado em desenvolvimento **backend** e **full stack**, APIs, bancos de dados e 
 </details>
 
 <details>
-  <summary><u>Cloud e DevOps</u></summary>
-  <ul>
-    <li>Azure</li>
-    <li>Azure DevOps</li>
-    <li>Administração de infraestruturas virtuais (VMs e VNETs)</li>
-  </ul>
-</details>
-
-<details>
   <summary><u>Controle de Versão</u></summary>
   <ul>
     <li>Git</li>
@@ -68,11 +93,24 @@ Focado em desenvolvimento **backend** e **full stack**, APIs, bancos de dados e 
 </details>
 
 <details>
-  <summary><u>IDE</u></summary>
+  <summary><u>Tools</u></summary>
   <ul>
     <li>IntelliJ IDEA</li>
     <li>VS Code</li>
     <li>Visual Studio 2022</li>
+    <li>Postman</li>
+    <li>Insomnia</li>
+    <li>Google Colab</li>
+    <li>Arduino IDE</li>
+  </ul>
+</details>
+
+<details>
+  <summary><u>Microcontroladores</u></summary>
+  <ul>
+    <li>Arduino</li>
+    <li>ESP32</li>
+    <li>C++ (Wiring)</li>
   </ul>
 </details>
 
