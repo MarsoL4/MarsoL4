@@ -100,6 +100,7 @@ Focado em desenvolvimento **backend** e **full stack**, APIs, bancos de dados e 
     <li>Visual Studio 2022</li>
     <li>Postman</li>
     <li>Insomnia</li>
+    <li>Node-RED</li>
     <li>Google Colab</li>
     <li>Arduino IDE</li>
   </ul>
@@ -119,6 +120,13 @@ Focado em desenvolvimento **backend** e **full stack**, APIs, bancos de dados e 
   <ul>
     <li>Linux</li>
     <li>Windows</li>
+  </ul>
+</details>
+
+<details>
+  <summary><u>Serviços de IA</u></summary>
+  <ul>
+    <li>IBM Watson</li>
   </ul>
 </details>
 
