@@ -22,6 +22,8 @@ Focado em desenvolvimento **backend** e **full stack**, APIs, bancos de dados e 
     <li>Spring Framework</li>
     <li>JPA/Hibernate</li>
     <li>RESTful Services</li>
+    <li>C#</li>
+    <li>.NET</li>
   </ul>
 </details>
 
@@ -31,6 +33,7 @@ Focado em desenvolvimento **backend** e **full stack**, APIs, bancos de dados e 
     <li>Oracle SQL</li>
     <li>PL/SQL</li>
     <li>MySQL</li>
+    <li>Mongo DB</li>
   </ul>
 </details>
 
@@ -52,6 +55,8 @@ Focado em desenvolvimento **backend** e **full stack**, APIs, bancos de dados e 
   <summary><u>Cloud e DevOps</u></summary>
   <ul>
     <li>Azure</li>
+    <li>Azure DevOps</li>
+    <li>Administração de infraestruturas virtuais (VMs e VNETs)</li>
   </ul>
 </details>
 
@@ -67,6 +72,7 @@ Focado em desenvolvimento **backend** e **full stack**, APIs, bancos de dados e 
   <ul>
     <li>IntelliJ IDEA</li>
     <li>VS Code</li>
+    <li>Visual Studio 2022</li>
   </ul>
 </details>
 
@@ -82,7 +88,7 @@ Focado em desenvolvimento **backend** e **full stack**, APIs, bancos de dados e 
   <summary><u>Metodologias</u></summary>
   <ul>
     <li>Scrum</li>
-    <li>Práticas ágeis</li>
+    <li>Metodologias ágeis</li>
   </ul>
 </details>
 
