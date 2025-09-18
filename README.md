@@ -37,6 +37,7 @@ Focado em desenvolvimento **backend** e **full stack**, APIs, bancos de dados e 
     <li>TypeScript</li>
     <li>React</li>
     <li>React Native</li>
+    <li>Angular</li>
     <li>Node.js</li>
     <li>Next.js</li>
     <li>Tailwind</li>
