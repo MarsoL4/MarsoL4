@@ -13,6 +13,8 @@
 Cursando Análise e Desenvolvimento de Sistemas na FIAP, com experiência prática em diversos projetos acadêmicos.  
 Focado em desenvolvimento **backend** e **full stack**, APIs, bancos de dados e integração de sistemas. Em constante busca por novas tecnologias e metodologias para aprimorar minhas habilidades e entregar soluções eficientes.
 
+<br><br>
+
 <p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarsoL4&hide=jupyter%20notebook&layout=compact&theme=dark&hide_progress=true&text_color=fff&title_color=fff&bg_color=0d1117" width="34%" alt="Most Used Languages">
 </p>
