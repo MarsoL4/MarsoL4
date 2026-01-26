@@ -12,7 +12,8 @@
 
 Formado em Análise e Desenvolvimento de Sistemas na FIAP, com experiência prática em diversos projetos acadêmicos.  
 Focado em desenvolvimento **backend** e **full stack**, APIs, bancos de dados e integração de sistemas. Em constante busca por novas tecnologias e metodologias para aprimorar minhas habilidades e entregar soluções eficientes.
-Atualmente cursando Pós-Tech na FIAP de IA para devs.
+
+Atualmente cursando Pós-Tech em IA para Devs na FIAP.
 
 <br><br>
 
