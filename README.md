@@ -8,10 +8,11 @@
   <a href="https://www.linkedin.com/in/enzomarsola/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23007BFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-## 🎓 Desenvolvedor de Software em formação
+## 🎓 Desenvolvedor de Software
 
-Cursando Análise e Desenvolvimento de Sistemas na FIAP, com experiência prática em diversos projetos acadêmicos.  
+Formado em Análise e Desenvolvimento de Sistemas na FIAP, com experiência prática em diversos projetos acadêmicos.  
 Focado em desenvolvimento **backend** e **full stack**, APIs, bancos de dados e integração de sistemas. Em constante busca por novas tecnologias e metodologias para aprimorar minhas habilidades e entregar soluções eficientes.
+Atualmente cursando Pós-Tech na FIAP de IA para devs.
 
 <br><br>
 
