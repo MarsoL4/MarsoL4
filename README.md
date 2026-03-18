@@ -1,6 +1,6 @@
 # 👨‍💻 Enzo G. Marsola
 
-**Desenvolvedor de Software | Estudante de ADS**
+**Desenvolvedor de Software | Estudante de IA**
 
 <!-- Social Links -->
 <p align="left">
