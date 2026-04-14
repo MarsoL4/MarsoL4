@@ -39,7 +39,7 @@ Currently pursuing a postgraduate program in **AI Agents**, expanding my experti
 - Linux
 - Cloud (Azure)
 
-**Frontend (Support)**
+**Frontend**
 - React
 - Next.js
 - TypeScript
