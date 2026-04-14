@@ -72,17 +72,6 @@ Vehicle monitoring and diagnostics system.
 - Implemented service tracking and maintenance notifications
 - 🏆 Finalist at FIAP NEXT (FIAP’s largest innovation event)
 
----
-
-### 🔹 EvvaMed API (Freelance Project)
-Occupational health management API (private project).
-
-- Built a complete REST API using **Java + Spring Boot**
-- Designed layered architecture (controller, service, repository, domain, DTO)
-- Modeled complex domain (companies, employees, doctors, consultations, ASO)
-- Implemented business rules affecting employee health status
-- Documented API using Swagger/OpenAPI
-
 ## Academic Background
 
 **FIAP – Centro Universitário (Brazil)**  
